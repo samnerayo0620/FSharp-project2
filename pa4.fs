@@ -1,7 +1,7 @@
 
 
 ///Samuel Nerayo 
-/// CPSC 3400 F# HW4
+
 
  // pa4.fs
 
