@@ -10,10 +10,7 @@ module MyModule
 
  *)
 
-   (*
-    Author Note: I am getting warning after I run the program yet I am getting the correct output, 
-    I asked the teacher about it and he said it is fine based on the given instruction
-    
+   (*    
     To Run the program I did [ dotnet fsi pa5.fs ]on the terminal of visual studio
    *)
 
